@@ -1,7 +1,7 @@
 ---
 title: Making Your Trucking Company Run Smoothly
 description: Streamline your trucking operations with these practical tips and strategies for efficiency, cost savings, and driver satisfaction.
-date: 02.09.2025 # YYYY-MM-DD format is recommended
+date: 02.09.2025 
 author: Dennis from CBud
 categories:
   - Trucking
