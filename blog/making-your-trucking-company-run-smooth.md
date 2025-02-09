@@ -14,9 +14,9 @@ tags:
   - efficiency
   - cost savings
   - drivers
+image: https://d27s6al4rlfsnl.cloudfront.net/efs/wp/domains/www.vanguardtrucks.com/wp-content/uploads/2023/11/8047556426.jpg
 ---
 
-# Making your Contract Trucking Company Run Smoothly
 
 ## Accountability
 
