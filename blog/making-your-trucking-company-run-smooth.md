@@ -14,7 +14,7 @@ tags:
   - efficiency
   - cost savings
   - drivers
-image: https://d27s6al4rlfsnl.cloudfront.net/efs/wp/domains/www.vanguardtrucks.com/wp-content/uploads/2023/11/8047556426.jpg
+image: https://raw.githubusercontent.com/MonteLogic/cbud-articles/refs/heads/main/images/8047556426.jpg
 ---
 
 
